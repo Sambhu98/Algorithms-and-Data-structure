@@ -1,0 +1,13 @@
+nCr= (n-1)C(r-1) + (n-1)Cr
+
+stars and bar formula
+Theorem 2
+- the number of ways of choosing k tuples of non-negative integers such that their sum is n
+is (n+k-1)C(k-1) or (n+k-1)Cn 
+
+Example
+n=3 k=2;
+tuples are (3,0) ,(1,2) ,(2,1),(0,3)
+point - here choosen number can be zero as the formula is for non-negative integers
+for positive integers follow Theorem 1
+
