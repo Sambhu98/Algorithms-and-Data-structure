@@ -1,0 +1,6 @@
+For double 
+mst.erase(mst.find(p)) doesnt work nor st.erase(st.find(p)) works 
+when erasing a point, erase it without specific position that is direct erase
+as mst.erase(p) or st.erase(p)
+Example problem 
+https://leetcode.com/contest/weekly-contest-232/problems/maximum-average-pass-ratio/
