@@ -16,6 +16,7 @@ using namespace std;
 #define fi first
 #define se second
 #define endl "\n"
+//check the size of the vertices  <---<---<---<---<---<---<---<-
 const int N = 1e4 + 5;
 vector<int> parent(N);
 vector<int> s(N);
